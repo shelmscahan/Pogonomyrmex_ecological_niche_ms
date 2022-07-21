@@ -1,0 +1,2 @@
+Files for logistic regression analysis for hybridogenetic lineages-parental species contact sites.
+For Type variable, 1 = hybridogenetic lineages, 0 = parental species.
