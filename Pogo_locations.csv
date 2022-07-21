@@ -1,0 +1,264 @@
+Location,ID,lat,long,Reference,Locale,County,State
+Kirk1,J,34.76666667,-112.4333333,Anderson 2006,Chino Valley,Yavapai,AZ
+Kirk10,J,32.26666667,-108.5333333,Anderson 2006,Jct. I-10 & Playas,Hidalgo,NM
+Kirk11,J,32.26666667,-108.3666667,Anderson 2006,6.1km E Separ,Grant,NM
+Kirk12,barbatus,32.9,-105.15,Anderson 2006,Hwy 70 41.6km W Hope,Chaves,NM
+Kirk13,barbatus,35.25,-102.65,Anderson 2006,2.4km S Adrian,Oldham,TX
+Kirk14,barbatus,35.28333333,-102.05,Anderson 2006,Jct. Ranch Rds. 1061&2381,Potter,TX
+Kirk15,barbatus,35.23333333,-101.3666667,Anderson 2006,1.5km N Conway,Carson,TX
+Kirk16,barbatus,35.21666667,-97.41666667,Anderson 2006,3.2km E Norman,Cleveland,OK
+Kirk17,barbatus,33.86666667,-101.85,Anderson 2006,4.0km N Abernathy,Lubbock,TX
+Kirk18,barbatus,32.71666667,-102.4166667,Anderson 2006,0.8km N Hwy 180 & Farm Road 303,Gaines,TX
+Kirk19,barbatus,32.71666667,-100.9,Anderson 2006,Snyder,Scurry,TX
+Kirk2,J,34.71666667,-111.9,Anderson 2006,1.5km E Cornville,Yavapai,AZ
+Kirk20,barbatus,30.26666667,-97.76666667,Anderson 2006,Austin,Travis,TX
+Kirk21,rugosus,38.61666667,-118.7666667,Anderson 2006,0.8km S Walker Lake,Mineral,NV
+Kirk22,rugosus,38.71666667,-117.65,Anderson 2006,0.2km S Silverpeak,Esmeralda,NV
+Kirk23,rugosus,36.16666667,-115.8833333,Anderson 2006,Pahrump,Nye,NV
+Kirk24,rugosus,35.96666667,-114.9,Anderson 2006,Dry Lake,Clark,NV
+Kirk25,rugosus,33.66666667,-113.7666667,Anderson 2006,Vickburg Rd. 3km N I-10,La Paz,AZ
+Kirk26,rugosus,34.78333333,-112.45,Anderson 2006,Chino Valley,Yavapai,AZ
+Kirk27,rugosus,33.8,-112.2333333,Anderson 2006,Hwy 74 10.1km E I-10,Maricopa,AZ
+Kirk28,rugosus,32.93333333,-111.7,Anderson 2006,1.1km SE Jct I-10 & McCartney rd.,Pinal,AZ
+Kirk29,rugosus,33.73333333,-111.4166667,Anderson 2006,"Mazatzal Mtns, Picadilla Creek",Maricopa,AZ
+Kirk3,J,34.16666667,-111.3333333,Anderson 2006,Hwy 77 at Oxbow hill,Pinal,AZ
+Kirk30,rugosus,33.55,-110.7,Anderson 2006,Hwy77 19.4km N Globe,Pinal,AZ
+Kirk31,rugosus,34.98333333,-110.0833333,Anderson 2006,Jct I-40 & Hwy 77,Navajo,AZ
+Kirk32,rugosus,32.71666667,-109.5,Anderson 2006,Hwy70 21km E Safford,Graham,AZ
+Kirk33,rugosus,32.36666667,-109.6333333,Anderson 2006,1.1km NW Jct I-10 & Hwy 191,Cochise,AZ
+Kirk34,FGH,32.26666667,-109.2333333,Anderson 2006,1.5km W San Simon,Cochise,AZ
+Kirk35,rugosus,32.05,-109.1833333,Anderson 2006,22.7km S San Simon,Cochise,AZ
+Kirk36,FGH,31.91666667,-109.0333333,Anderson 2006,Jct Hwys 9 and 80,Hidalgo,NM
+Kirk37,FGH,32.26666667,-108.3666667,Anderson 2006,6.1km E Separ,Grant,NM 
+Kirk37,rugosus,32.26666667,-108.3666667,Anderson 2006,6.1km E Separ,Grant,NM 
+Kirk38,rugosus,35.05,-106.9166667,Anderson 2006,1.5km W Escondido,Socorro,NM 
+Kirk39,rugosus,34.81666667,-106.8,Anderson 2006,3.2km W Jct Hwy 6 & I-25,Valencia,NM
+Kirk4,J,33.71666667,-111.3666667,Anderson 2006,"Mazatzal Mtns, Brushy Basin",Maricopa,AZ
+Kirk40,rugosus,35,-105.9333333,Anderson 2006,11.0km E Moriarity,Torrance,NM
+Kirk41,FGH,34.98333333,-104.8166667,Anderson 2006,16.3km SE Colonias,Guadalupe,NM
+Kirk41,rugosus,34.98333333,-104.8166667,Anderson 2006,16.3km SE Colonias,Guadalupe,NM
+Kirk42,FGH,35.28333333,-102.05,Anderson 2006,Jct Ranch Roads 1061 & 2381,Potter,TX
+Kirk43,FGH,32.26666667,-107.0166667,Anderson 2006,Jct I-10 & Corralitos Rd,Dona Ana,NM
+Kirk43,rugosus,32.26666667,-107.0166667,Anderson 2006,Jct I-10 & Corralitos Rd,Dona Ana,NM
+Kirk44,FGH,32.81666667,-104.7333333,Anderson 2006,0.5km N Hope,Eddy,NM
+Kirk45,FGH,32.71666667,-105.9833333,Anderson 2006,0.6km S Jct Hwy 62 & County Road 339,Gaines,TX
+Kirk46,FGH,32.75,-101.7,Anderson 2006,Hwy 180 at border of Borden Co.,Dawson,TX
+Kirk5,J,33.55,-110.7,Anderson 2006,Hwy 77 19.4km N Globe,Pinal,AZ
+Kirk6,J,31.38333333,-111.05,Anderson 2006,Calabasas campground,Santa Cruz,AZ
+Kirk7,J,31.7,-110.3666667,Anderson 2006,Jct Hwys 82 & 90,Cochise,AZ
+Kirk8,J,31.66666667,-109.6833333,Anderson 2006,1.5km S Elfrida,Cochise,AZ
+Kirk9,J,31.8,-109.05,Anderson 2006,Jct. Hwy 80 & State line Rd.,Cochise,AZ
+Kirk-MX1,barbatus,18.85,-99.61666667,Anderson 2006,1km SE Ursulo Galvan,Veracruz,Mexico
+Kirk-MX2,barbatus,19.68333333,-96.53333333,Anderson 2006,2km S Amacuzac,Morelos,Mexico
+A1,J,30.8865,-110.6374,Anderson et al. 2011,,,
+A2,J,31.7347,-110.018,Anderson et al. 2011,,,
+A3,J,31.3151,-108.85,Anderson et al. 2011,,,
+A4,J,30.783,-109.5761,Anderson et al. 2011,,,
+A5,J,32.5863,-110.725,Anderson et al. 2011,,,
+A6,J,31.7044,-110.4402,Anderson et al. 2011,,,
+A7,J,31.5886,-111.4961,Anderson et al. 2011,,,
+A8,J,33.0369,-109.1311,Anderson et al. 2011,,,
+BRG,barbatus,26.184,-98.3803,Helms Cahan et al. 2022,"N of Bentsen-Rio Grande State Park, Mission",Hidalgo,TX
+BRG,rugosus,32.3154,-109.4844,Helms Cahan et al. 2022,Bowie,Cochise,AZ
+CT,barbatus,32.8667,-104.9882,Helms Cahan et al. 2022,W of Hope,Sierra,NM
+CT,FGH,32.8667,-104.9882,Helms Cahan et al. 2022,W of Hope,Sierra,NM
+EPW,rugosus,31.9836,-106.5858,Helms Cahan et al. 2022,El Paso,El Paso,TX
+FB,J,32.1581,-109.4554,Helms Cahan et al. 2022,N Fort Bowie Historical Park,Cochise,AZ
+GP,FGH,26.3573,-103.9185,Helms Cahan et al. 2022,near Gomez Palacio,Durango,Mexico
+Hill,FGH,32.9603,-107.485,Helms Cahan et al. 2022,E of Hillsboro,Sierra,NM
+LAR,barbatus,27.5367,-99.4332,Helms Cahan et al. 2022,"Lake Casa Blanca State Park, Laredo",Webb,TX
+LK,barbatus,30.2251,-98.8038,Helms Cahan et al. 2022,Blumenthal,Travis,TX
+MSC,barbatus,25.7031,-100.5398,Helms Cahan et al. 2022,Monterrey-Saltillo Site C,Nuevo Léon,Mexico
+MSC,rugosus,25.7031,-100.5398,Helms Cahan et al. 2022,Monterrey-Saltillo Site C,Nuevo L?on,Mexico
+MSD,barbatus,25.7213,-100.5396,Helms Cahan et al. 2022,Monterrey-Saltillo Site D,Nuevo Léon,Mexico
+PHX,rugosus,33.45,-112.0667,Helms Cahan et al. 2022,Phoenix,Maricopa,AZ
+S14,FGH,30.8274,-100.2249,Helms Cahan et al. 2022,N of Fort McKavett,Menard,TX
+SAL,barbatus,25.4425,-100.992,Helms Cahan et al. 2022,Saltillo,Coahuila,Mexico
+Site14,rugosus,30.82875,-103.1199167,Helms Cahan et al. 2022,23.4km W Fort Stockton,,TX
+SON,J,31.7121,-110.5896,Helms Cahan et al. 2022,Sonoita,Santa Cruz,AZ
+TOR,barbatus,25.6654,-103.5357,Helms Cahan et al. 2022,Torr?on,Coahuila,Mexico
+WS,rugosus,32.4652,-109.6902,Helms Cahan et al. 2022,Hwy. 191 2km N I-10 near Willcox,Cochise,AZ
+M1,rugosus,29.3852,-114.3819,Mott et al. 2015,,,
+M10,rugosus,37.0202,-112.5388,Mott et al. 2015,,,
+M11,rugosus,34.1083,-112.9402,Mott et al. 2015,,,
+M12,rugosus,36.9197,-111.4797,Mott et al. 2015,,,
+M13,rugosus,35.6238,-111.5169,Mott et al. 2015,,,
+M14,rugosus,36.4016,-111.5333,Mott et al. 2015,,,
+M15,rugosus,36.4391,-110.7516,Mott et al. 2015,,,
+M16,rugosus,36.8525,-110.2691,Mott et al. 2015,,,
+M17,rugosus,37.2838,-109.5327,Mott et al. 2015,,,
+M18,rugosus,38.6066,-109.5872,Mott et al. 2015,,,
+M19,J,32.7819,-108.4644,Mott et al. 2015,,,
+M2,rugosus,31.2677,-115.5977,Mott et al. 2015,,,
+M20,barbatus,32.8119,-108.113,Mott et al. 2015,,,
+M21,FGH,32.9586,-105.9547,Mott et al. 2015,,,
+M22,rugosus,36.1233,-106.0255,Mott et al. 2015,,,
+M23,FGH,38.1516,-104.6502,Mott et al. 2015,,,
+M24,FGH,31.7702,-105.4186,Mott et al. 2015,,,
+M25,FGH,33.4575,-105.338,Mott et al. 2015,,,
+M26,FGH,31.7613,-104.9322,Mott et al. 2015,,,
+M27,FGH,32.1769,-104.3783,Mott et al. 2015,,,
+M28,FGH,29.593,-103.2263,Mott et al. 2015,,,
+M29,FGH,29.6233,-103.1166,Mott et al. 2015,,,
+M3,rugosus,33.2152,-116.4544,Mott et al. 2015,,,
+M30,barbatus,18.9177,-97.6894,Mott et al. 2015,,,
+M31,barbatus,18.2852,-96.1927,Mott et al. 2015,,,
+M32,barbatus,21.0366,-104.2558,Mott et al. 2015,,,
+M33,barbatus,20.9233,-104.0083,Mott et al. 2015,,,
+M34,barbatus,20.735,-103.4491,Mott et al. 2015,,,
+M35,barbatus,20.4927,-103.4902,Mott et al. 2015,,,
+M36,barbatus,19.5072,-103.4427,Mott et al. 2015,,,
+M37,barbatus,19.265,-103.7247,Mott et al. 2015,,,
+M38,barbatus,18.1188,-102.2811,Mott et al. 2015,,,
+M39,barbatus,18.4352,-102.0875,Mott et al. 2015,,,
+M4,rugosus,34.0094,-116.0961,Mott et al. 2015,,,
+M40,FGH,30.1216,-106.4188,Mott et al. 2015,,,
+M41,FGH,29.4736,-106.4052,Mott et al. 2015,,,
+M42,FGH,28.5986,-105.9911,Mott et al. 2015,,,
+M43,FGH,28.2977,-105.5077,Mott et al. 2015,,,
+M44,FGH,27.6591,-105.15,Mott et al. 2015,,,
+M45,FGH,26.8897,-105.6011,Mott et al. 2015,,,
+M46,FGH,26.3994,-105.4141,Mott et al. 2015,,,
+M47,FGH,24.7866,-104.4772,Mott et al. 2015,,,
+M48,barbatus,24.608,-104.6447,Mott et al. 2015,,,
+M49,rugosus,24.608,-104.6447,Mott et al. 2015,,,
+M5,rugosus,37.0433,-116.77,Mott et al. 2015,,,
+M50,barbatus,24.1525,-104.7066,Mott et al. 2015,,,
+M51,rugosus,24.1525,-104.7066,Mott et al. 2015,,,
+M52,rugosus,23.9941,-104.7358,Mott et al. 2015,,,
+M53,rugosus,26.0572,-108.7805,Mott et al. 2015,,,
+M54,rugosus,26.1286,-108.7388,Mott et al. 2015,,,
+M55,rugosus,26.443,-108.6008,Mott et al. 2015,,,
+M56,rugosus,26.7266,-109.285,Mott et al. 2015,,,
+M57,rugosus,27.6055,-110.043,Mott et al. 2015,,,
+M58,rugosus,27.9783,-110.7788,Mott et al. 2015,,,
+M59,rugosus,28.6683,-110.9958,Mott et al. 2015,,,
+M6,rugosus,37.6725,-115.1952,Mott et al. 2015,,,
+M60,rugosus,29.5544,-111.013,Mott et al. 2015,,,
+M61,J,30.0811,-111.0908,Mott et al. 2015,,,
+M62,rugosus,30.2025,-111.0919,Mott et al. 2015,,,
+M63,J,30.5641,-111.0913,Mott et al. 2015,,,
+M64,rugosus,32.2685,-112.7393,Mott et al. 2015,,,
+M65,rugosus,32.8848,-112.4687,Mott et al. 2015,,,
+M66,rugosus,32.3371,-111.0826,Mott et al. 2015,,,
+M67,J,31.0483,-110.8942,Mott et al. 2015,,,
+M68,J,31.3151,-109.1387,Mott et al. 2015,,,
+M69,FGH,31.2096,-108.5401,Mott et al. 2015,,,
+M7,rugosus,37.2294,-115.0877,Mott et al. 2015,,,
+M70,FGH,30.3752,-107.9603,Mott et al. 2015,,,
+M71,FGH,29.7603,-107.5325,Mott et al. 2015,,,
+M72,FGH,28.381,-106.7566,Mott et al. 2015,,,
+M73,FGH,26.5592,-104.7029,Mott et al. 2015,,,
+M74,barbatus,25.8937,-103.628,Mott et al. 2015,,,
+M75,rugosus,24.8239,-103.679,Mott et al. 2015,,,
+M76,barbatus,24.2303,-103.379,Mott et al. 2015,,,
+M77,barbatus,23.8157,-103.0091,Mott et al. 2015,,,
+M78,FGH,22.0806,-102.2777,Mott et al. 2015,,,
+M79,barbatus,22.0806,-102.2777,Mott et al. 2015,,,
+M8,rugosus,37.0608,-113.5955,Mott et al. 2015,,,
+M80,barbatus,22.011,-100.8394,Mott et al. 2015,,,
+M81,barbatus,22.8663,-100.2821,Mott et al. 2015,,,
+M82,barbatus,22.8039,-99.9187,Mott et al. 2015,,,
+M83,barbatus,23.6745,-99.107,Mott et al. 2015,,,
+M84,barbatus,24.5874,-99.5342,Mott et al. 2015,,,
+M85,barbatus,25.6856,-100.4789,Mott et al. 2015,,,
+M86,rugosus,25.5414,-100.8657,Mott et al. 2015,,,
+M87,rugosus,24.0266,-101.0435,Mott et al. 2015,,,
+M88,barbatus,24.5245,-101.3684,Mott et al. 2015,,,
+M89,barbatus,26.9911,-101.3665,Mott et al. 2015,,,
+M9,rugosus,37.29,-113.1186,Mott et al. 2015,,,
+M90,FGH,25.8863,-102.9027,Mott et al. 2015,,,
+M91,barbatus,20.6663,-100.0706,Mott et al. 2015,,,
+M92,barbatus,20.6663,-100.0707,Mott et al. 2015,,,
+M93,barbatus,19.3946,-96.3617,Mott et al. 2015,,,
+M94,barbatus,18.5697,-99.4016,Mott et al. 2015,,,
+113,J,32.22536667,-108.5371667,Schwander et al. 2007,,,
+941,barbatus,30.21605,-98.73923333,Schwander et al. 2007,,,
+AK,rugosus,32.24761667,-107.3905833,Schwander et al. 2007,,,
+ALA,FGH,32.91748333,-105.9634833,Schwander et al. 2007,,,
+ALP,barbatus,30.3613,-103.6447167,Schwander et al. 2007,,,
+ALP,FGH,30.3613,-103.6447167,Schwander et al. 2007,,,
+AN,FGH,31.96291667,-108.8153833,Schwander et al. 2007,,,
+B,rugosus,32.31521667,-109.4842333,Schwander et al. 2007,,,
+BF,FGH,31.92826667,-108.3714,Schwander et al. 2007,,,
+Carl,FGH,32.38985,-104.2202333,Schwander et al. 2007,,,
+DA,rugosus,32.3768,-109.6362167,Schwander et al. 2007,,,
+ELP,FGH,31.83435,-106.5450667,Schwander et al. 2007,,,
+ELP,rugosus,31.83435,-106.5450667,Schwander et al. 2007,,,
+ENT,FGH,31.99595,-109.0393667,Schwander et al. 2007,,,
+FA,rugosus,32.29621667,-109.3506,Schwander et al. 2007,,,
+FL,FGH,30.67035,-101.6761833,Schwander et al. 2007,,,
+FL,rugosus,30.67035,-101.6761833,Schwander et al. 2007,,,
+GS,FGH,32.27023333,-109.2383333,Schwander et al. 2007,,,
+H,J,32.41618333,-109.6655,Schwander et al. 2007,,,
+HE,FGH,30.69343333,-101.4601667,Schwander et al. 2007,,,
+HID,FGH,31.91868333,-109.0494833,Schwander et al. 2007,,,
+Hob,FGH,32.8165,-103.2375,Schwander et al. 2007,,,
+J,J,31.84541667,-109.0492667,Schwander et al. 2007,,,
+LC,FGH,32.4064,-106.6553,Schwander et al. 2007,,,
+LW,barbatus,30.70485,-104.1072167,Schwander et al. 2007,,,
+MF,FGH,30.32008333,-104.0863833,Schwander et al. 2007,,,
+MON,J,32.00111667,-109.3851,Schwander et al. 2007,,,
+OR,FGH,31.82321667,-103.9091833,Schwander et al. 2007,,,
+OR,rugosus,31.82321667,-103.9091833,Schwander et al. 2007,,,
+PC,FGH,32.29258333,-109.33725,Schwander et al. 2007,,,
+PC,rugosus,32.29258333,-109.33725,Schwander et al. 2007,,,
+PN,barbatus,30.69105,-101.2739333,Schwander et al. 2007,,,
+QC,rugosus,33.2663,-111.3531667,Schwander et al. 2007,,,
+ROS,FGH,33.39365,-104.6873333,Schwander et al. 2007,,,
+SF,FGH,31.76366667,-104.9269167,Schwander et al. 2007,,,
+SH,J,31.74363333,-109.0952833,Schwander et al. 2007,,,
+SL,J,31.00001667,-108.9666667,Schwander et al. 2007,,,
+SS,FGH,32.21478333,-109.1762167,Schwander et al. 2007,,,
+UFO,FGH,33.43333333,-104.65,Schwander et al. 2007,,,
+WWR,barbatus,28.10135,-97.3368,Schwander et al. 2007,,,
+AG,FGH,32.37041667,-106.5613,this study,Aguirre Springs,Doña Ana,NM
+AGB,barbatus,32.40993333,-106.5482833,this study,7.25km NW White Sands,Doña Ana,NM
+BA,rugosus,34.856667,-117.013333,this study,Barstow,San Bernardino,CA
+Br,barbatus,31.21635,-99.81048,this study,Brady,McCulloch,TX
+C,FGH,31.7995,-107.74855,this study,10.7km W Columbus,Luna,NM
+CC,rugosus,32.04613333,-110.71385,this study,Colossal Cave,Pima,AZ
+CH,FGH,28.72633333,-105.9937167,this study,El Sonorita,Chihuahua,Mexico
+CoC,J,31.36465,-109.6920667,this study,Cochise College,Cochise,AZ
+DC,rugosus,32.26933333,-106.7433333,this study,S Las Cruces,Doña Ana,NM
+DC,FGH,32.26933333,-106.7433333,this study,S Las Cruces,Doña Ana,NM
+FH,J,31.67603333,-110.3498333,this study,Fort Huachuca,Cochise,AZ
+HA189,FGH,33.71328333,-105.9508333,this study,E Carizozo,Lincoln,NM
+HA201,rugosus,32.5678,-104.38445,this study,Brantly Lake State Park,Eddy,NM
+HA340,J,31.44245,-109.9174833,this study,Bisbee,Cochise,AZ
+IR,rugosus,30.77651667,-105.0164,this study,33km SE Van Horn,Culberson,TX
+JIM,FGH,27.67556667,-105.0343667,this study,Jimenez,Chihuahua,MX
+JO,FGH,27.75353333,-104.8684167,this study,El Pozo,Chihuahua,Mexico
+MC,rugosus,34.906667,-115.428056,this study,Mitchell Caverns,San Bernardino,CA
+McR,rugosus,33.311389,-112.631944,this study,Casa Grande,Pinal,AZ
+MO,rugosus,35.078056,-118.179444,this study,Mojave,Kern,CA
+MS,rugosus,25.67222,-100.69328,this study,between Mponterrey and Saltillo,,MX
+NFB,rugosus,32.22035,-109.4343833,this study,12.75km S Bowie,Cochise,AZ
+NO,barbatus,32.13161667,-102.4653167,this study,32 km N Odessa,Ector,TX
+NOR,J,31.40388333,-109.7695333,this study,North Oro,Pima,AZ
+O,barbatus,31.95331667,-102.1334333,this study,Odessa,Ector,TX
+O,FGH,31.95283333,-102.13355,this study,Odessa,Ector,TX
+OF,FGH,32.67766667,-101.621,this study,18.4km N Vealmoor,Borden,TX
+OF,barbatus,32.67766667,-101.621,this study,18.4km N Vealmoor,Borden,TX
+OJ,rugosus,32.77621667,-111.16185,this study,34.6km SE Florence,Pinal,AZ
+OK,barbatus,35.2346,-97.4264,this study,Norman,Cleveland,OK
+PA,rugosus,34.7825,-118.219722,this study,Palmdale,Los Angeles,CA
+PAR,J,31.93233333,-109.2082,this study,1km SE Paradise,Cochise,AZ
+SC,J,31.81365,-109.04965,this study,Sulphur Canyon,Cochise,AZ
+Site1,FGH,31.1578,-104.8333667,this study,13.1km N Van Horn,Culberson,TX
+Site10,barbatus,32.47958333,-101.5545833,this study,4.9km S Vealmoor,Howard,TX
+Site11,barbatus,32.05426667,-101.9619667,this study,Midland,Midland,TX
+Site13,rugosus,31.33013333,-102.3490667,this study,7.16km S Crane,Crane,TX
+Site2,barbatus,30.66403333,-104.2460333,this study,26km E Valentine,Jeff Davis,TX
+Site3,FGH,32.85328333,-104.9271833,this study,18.2km W Hope,Eddy,NM
+Site4,barbatus,32.89145,-105.15645,this study,30km E Mayhill,Otero,NM
+Site5,rugosus,32.674,-107.013,this study,4.45km E Rincon,Doña Ana,NM
+Site6,barbatus,32.92096667,-107.6756833,this study,2.7km E Kingston,Sierra,NM
+Site7,FGH,32.5584,-108.3632167,this study,White Signal,Grant,NM
+Site8,rugosus,32.42888333,-108.6720333,this study,9.5km N Lordsburg,Hidalgo,NM
+Site9,FGH,32.55905,-103.7284667,this study,58.5km W Hobbs,Lea,NM
+TG,rugosus,32.42831667,-111.13835,this study,Marana,Pima,AZ
+TP,rugosus,32.38123333,-111.1736833,this study,Saguaro Springs,Pima,AZ
+V,rugosus,32.07491667,-110.7706667,this study,Vail,Pima,AZ
+Ve,barbatus,32.5208,-101.5729,this study,Vealmoor,Howard,TX
+WC,FGH,30.9304,-104.9231667,this study,14.75km SW Van Horn,Hudspeth,TX
