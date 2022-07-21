@@ -1,0 +1,1 @@
+Genotype files for hybridogenetic lineage-parent contact sites for use in Structure 2.3.4.  For all files, 1 = hybridogenetic lineages, 2 = non-hybridogenetic parent species.
